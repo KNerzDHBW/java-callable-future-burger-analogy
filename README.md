@@ -1,1 +1,3 @@
-# java-callable-future-burger
+# ThreadsBurger
+
+Run with: `java Main.java`
